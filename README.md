@@ -23,3 +23,8 @@ Pull requestler kabul edilir. Büyük değişikler için, lütfen önce neyi de�
 
 # License
 [MIT](https://kodluyoruz.org)
+
+```python
+print ("hello world")
+```
+[github](https://github.com/bengisudgngl)
