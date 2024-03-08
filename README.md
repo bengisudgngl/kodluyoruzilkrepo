@@ -18,3 +18,8 @@ Linux için:
 cd kodluyoruzilrepo
 code.
 ```
+# Contributing
+Pull requestler kabul edilir. Büyük değişikler için, lütfen önce neyi değiştirmek istediğiniz tartışmak için bir konu açınız.
+
+# License
+[MIT](https://kodluyoruz.org)
