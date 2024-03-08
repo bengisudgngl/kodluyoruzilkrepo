@@ -1,5 +1,5 @@
 # Kodluyoruz Ilk Repo
 
-Bu repo [Koduluyoruz](https://kodluyoruz.org) Fronted
+Bu repo [Koduluyoruz](https://kodluyoruz.org) Front- End Eğitiminde
 
 
